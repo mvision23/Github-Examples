@@ -12,4 +12,3 @@ jobs:
           echo "Msg 1"
           echo "Msg 2"
           echo "::endgroup::"
-          
